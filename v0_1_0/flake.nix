@@ -11,7 +11,6 @@
   inputs.src-amysql-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-amysql-v0_1_0.owner = "bung87";
   inputs.src-amysql-v0_1_0.repo  = "amysql";
-  inputs.src-amysql-v0_1_0.dir   = "";
   inputs.src-amysql-v0_1_0.type  = "github";
   
   inputs."nimcrypto".owner = "nim-nix-pkgs";
