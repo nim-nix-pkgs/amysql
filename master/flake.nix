@@ -11,6 +11,7 @@
   inputs.src-amysql-master.ref   = "refs/heads/master";
   inputs.src-amysql-master.owner = "bung87";
   inputs.src-amysql-master.repo  = "amysql";
+  inputs.src-amysql-master.dir   = "";
   inputs.src-amysql-master.type  = "github";
   
   inputs."nimcrypto".owner = "nim-nix-pkgs";
