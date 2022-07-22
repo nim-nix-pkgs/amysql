@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 eff9285ccd98aa571ee4b667896aa67db3e6a9ad hugosenari <hugosenari@gmail.com> 1656278185 -0300	clone: from github.com:nim-nix-pkgs/amysql.git
+eff9285ccd98aa571ee4b667896aa67db3e6a9ad 5e15b70872390a2b22f4894bdbbd10e1f0f50053 hugosenari <hugosenari@gmail.com> 1656283553 -0300	commit: chore: re index amysql
+5e15b70872390a2b22f4894bdbbd10e1f0f50053 7efefc399fcf091e4a96c0304ff21cd121a4c15d hugosenari <hugosenari@gmail.com> 1656303191 -0300	commit: feat(nimpkgs): remove lock
+7efefc399fcf091e4a96c0304ff21cd121a4c15d 4fed0c13d246d182a4ca3dd7f253c78931daa6d7 hugosenari <hugosenari@gmail.com> 1656748644 -0300	commit: feat(nimpkgs): remove lock
+4fed0c13d246d182a4ca3dd7f253c78931daa6d7 167685055f3261427b68a8d7438a664579b5ab74 hugosenari <hugosenari@gmail.com> 1657154799 -0300	commit: feat(nimpkgs): remove lock
+167685055f3261427b68a8d7438a664579b5ab74 17698eb0f7d62e4f1a17497f86f5bfc58a0b4194 hugosenari <hugosenari@gmail.com> 1658020121 -0300	commit: feat(nimpkgs): remove lock
+17698eb0f7d62e4f1a17497f86f5bfc58a0b4194 ed2faaae6903c9a6e9a637df4d49550e3db13f93 hugosenari <hugosenari@gmail.com> 1658033763 -0300	commit: feat(nimpkgs): remove lock
+ed2faaae6903c9a6e9a637df4d49550e3db13f93 22505f7313ad4ff1e1cf663ec896dab506dc5b28 hugosenari <hugosenari@gmail.com> 1658209075 -0300	commit: feat(nimpkgs): remove lock
